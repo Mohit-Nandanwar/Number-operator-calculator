@@ -2,8 +2,6 @@
 The Number Operation Calculator is a simple yet interactive web-based tool designed to perform multiple mathematical operations on a single input number. It helps users analyze and understand the properties of numbers by combining number, sum of first n number, sum of digits , prime number, armstrong, factors, table one input application.
 
 
-#  Number Operation Calculator
-
 ##  Project Description
 The **Number Operation Calculator** is a beginner-friendly web-based tool built using **HTML, CSS, and JavaScript**.  
 It allows users to enter a single number as input and then performs multiple mathematical operations to analyze its properties.
